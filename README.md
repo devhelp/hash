@@ -10,8 +10,8 @@ $ composer require 'devhelp/hash:dev-master'
 
 ## Purpose
 
-Hash introduces HashGenerator class that can be used to register different hash algorithms. It supports all PHP core
-hash algorithms by default, but you can register another ones as \Closure or Devhelp\Hash\Algorithm\HashAlgorithmInterface
+Devhelp/Hash introduces HashGenerator class that can be used to register and use different hash algorithms. It supports
+all PHP core hash algorithms by default, but you can register custom ones as \Closure or Devhelp\Hash\Algorithm\HashAlgorithmInterface
 
 ## Usage
 
