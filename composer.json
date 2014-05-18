@@ -1,0 +1,31 @@
+{
+    "name": "devhelp/hash",
+    "description": "",
+    "keywords": ["hash"],
+    "homepage": "http://devhelp.pl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paweł Barański",
+            "email": "pawel.baranski1@gmail.com"
+        },
+        {
+            "name": "devhelp.pl",
+            "email": "devhelp@devhelp.pl"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2",
+        "squizlabs/php_codesniffer": "~1",
+        "sebastian/phpcpd": "~2"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": { "Devhelp\\Hash": "src/" }
+    }
+}

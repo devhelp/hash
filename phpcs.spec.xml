@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ruleset name="phpspec">
+    <description>PSR-2 excluding camelCase method naming and required method scope</description>
+
+    <rule ref="phpcs.xml">
+        <exclude name="Squiz.Scope.MethodScope"/>
+        <exclude name="PSR1.Methods.CamelCapsMethodName"/>
+    </rule>
+
+</ruleset>
