@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/devhelp/hash.png)](https://travis-ci.org/devhelp/hash) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/hashhere/mini.png)](https://insight.sensiolabs.com/projects/hashhere)
+[![Build Status](https://travis-ci.org/devhelp/hash.png)](https://travis-ci.org/devhelp/hash) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/a7da6b8c-995f-4f22-94c5-1212c73676b9/mini.png)](https://insight.sensiolabs.com/projects/a7da6b8c-995f-4f22-94c5-1212c73676b9)
 
 ## Installation
 
